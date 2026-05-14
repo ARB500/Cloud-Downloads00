@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3409",
+  "folder": "YouTube__watch_20260514003610_6aa823",
+  "base_name": "Star_Wars_Revenge_of_the_Sith_(2005)_ABSOLUTELY_BROKE_ME_First_Time_Wa_mdEMaCmCnnQ_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ARB500/Cloud-Downloads00/releases/tag/co-releases-v1-3409",
+  "files": [
+    {
+      "name": "Star_Wars_Revenge_of_the_Sith_.2005._ABSOLUTELY_BROKE_ME_First_Time_Wa_mdEMaCmCnnQ_480p.mp4",
+      "url": "https://github.com/ARB500/Cloud-Downloads00/releases/download/co-releases-v1-3409/Star_Wars_Revenge_of_the_Sith_.2005._ABSOLUTELY_BROKE_ME_First_Time_Wa_mdEMaCmCnnQ_480p.mp4",
+      "api_url": "https://api.github.com/repos/ARB500/Cloud-Downloads00/releases/assets/419744344",
+      "id": 419744344,
+      "size": 209254649,
+      "download_count": 0
+    }
+  ]
+}
