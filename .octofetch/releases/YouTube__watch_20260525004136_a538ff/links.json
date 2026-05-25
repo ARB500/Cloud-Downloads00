@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2143",
+  "folder": "YouTube__watch_20260525004136_a538ff",
+  "base_name": "Gothic_Horror_Is_So_Back_In_Nosferatu_(2024)_Movie_Reaction_qTykleEmus0_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ARB500/Cloud-Downloads00/releases/tag/co-releases-v1-2143",
+  "files": [
+    {
+      "name": "Gothic_Horror_Is_So_Back_In_Nosferatu_.2024._Movie_Reaction_qTykleEmus0_360p.mp4",
+      "url": "https://github.com/ARB500/Cloud-Downloads00/releases/download/co-releases-v1-2143/Gothic_Horror_Is_So_Back_In_Nosferatu_.2024._Movie_Reaction_qTykleEmus0_360p.mp4",
+      "api_url": "https://api.github.com/repos/ARB500/Cloud-Downloads00/releases/assets/428904841",
+      "id": 428904841,
+      "size": 73968732,
+      "download_count": 0
+    }
+  ]
+}
